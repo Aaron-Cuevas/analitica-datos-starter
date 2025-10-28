@@ -1,0 +1,6 @@
+ruff
+black
+pre-commit
+nbstripout
+mkdocs
+mkdocs-material

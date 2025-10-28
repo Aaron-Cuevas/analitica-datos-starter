@@ -1,0 +1,1 @@
+Reportar vulnerabilidades mediante Issues privados o contacto directo.

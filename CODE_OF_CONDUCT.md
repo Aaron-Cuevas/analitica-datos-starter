@@ -1,0 +1,1 @@
+Ver `Contributor Covenant` para lineamientos de conducta.

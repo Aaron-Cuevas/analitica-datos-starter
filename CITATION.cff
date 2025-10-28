@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: Si usas este repositorio, por favor cítalo.
+title: "Entorno de Análisis de Datos — Starter Pro"
+authors:
+  - family-names: "Cuevas"
+    given-names: "Aaron"
+license: MIT
+version: "1.1.0"
+repository-code: "https://github.com/Aaron-Cuevas/REPO"

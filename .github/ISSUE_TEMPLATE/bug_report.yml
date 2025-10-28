@@ -1,0 +1,4 @@
+name: Bug
+description: Reporte de bug
+title: "[BUG] Título"
+labels: [bug]
