@@ -1,4 +1,4 @@
-# Entorno de Análisis de Datos — Starter Pro (Windows · macOS · Linux)
+# Entorno de Análisis de Datos —  (Windows · macOS · Linux)
 
 Este repositorio instala un entorno de trabajo para análisis de datos de forma reproducible. Incluye estructura de proyecto, cuadernos de ejemplo, verificación automática de calidad y una guía paso a paso para cada sistema operativo.
 
