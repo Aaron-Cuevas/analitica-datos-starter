@@ -1,3 +1,5 @@
+[![AI Assisted](https://img.shields.io/badge/AI%20assisted-yes-blue)](#)
+
 # Entorno de Análisis de Datos —  (Windows · macOS · Linux)
 
 Este repositorio instala un entorno de trabajo para análisis de datos de forma reproducible. Incluye estructura de proyecto, cuadernos de ejemplo, verificación automática de calidad y una guía paso a paso para cada sistema operativo.
@@ -203,3 +205,11 @@ En Windows sin `make`, usar los comandos equivalentes listados en las secciones 
 ## Licencia y citación
 - Licencia: MIT (archivo `LICENSE`).
 - Citación: `CITATION.cff`.
+
+---
+
+## Atribución de IA
+Este código fue ensamblado con asistencia de IA.  
+- Asistencia: generación de fragmentos, refactor y edición de README.  
+- Responsabilidad final: Aaron Cuevas.  
+- Fecha: 2025-10-30.  
